@@ -1,0 +1,30 @@
+[
+  {
+    "name": "sai",
+    "designation": "fresher",
+    "phno": "9160286679",
+    "timings": "24/7",
+    "id": 1
+  },
+  {
+    "name": "deepak",
+    "designation": "abcd",
+    "phno": "45454545",
+    "timings": "476",
+    "id": 2
+  },
+  {
+    "name": "hemanth",
+    "designation": "lawyer",
+    "phno": "9951882966",
+    "timings": "24/7",
+    "id": 3
+  },
+  {
+    "name": "raja",
+    "designation": "fresher",
+    "phno": "75588437995",
+    "timings": "09",
+    "id": 4
+  }
+]
