@@ -4,10 +4,10 @@
   "description": "",
   "main": "./src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon './src/app.js'",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "build": "echo \"No build step necessary for a Node.js application\"",
+    "start": "node ./src/app.js",
+    "predeploy": "npm run build", 
+    "deploy": "echo \"No deploy step necessary for a Node.js application\""
   },
   "keywords": [],
   "author": "",
